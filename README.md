@@ -1,6 +1,7 @@
 # ServletSchool
 
 包名|说明
+:--|:--
 dao|设置接口
 impl|实现doa层接口方法
 dbc|连接数据库文件，使用的是my sql
