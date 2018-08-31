@@ -2,6 +2,7 @@
 
 ### authortity management
 **本次提交的内容是：权限登陆管理**
+
 表名|说明
 :--|:--
 userinfo|用户表
